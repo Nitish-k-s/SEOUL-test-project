@@ -1,0 +1,10 @@
+{
+  "buildCommand": null,
+  "outputDirectory": "SEOUL",
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/SEOUL/$1"
+    }
+  ]
+}
