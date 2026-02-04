@@ -1,0 +1,218 @@
+[
+    {
+        "id": "P001",
+        "name": "Premium Leather Jacket",
+        "category": "Clothing",
+        "price": 2499,
+        "merchantId": "M001",
+        "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=400&h=400&fit=crop",
+        "description": "Genuine leather jacket with premium craftsmanship. Perfect for casual and semi-formal occasions."
+    },
+    {
+        "id": "P002",
+        "name": "Designer Silk Blouse",
+        "category": "Clothing",
+        "price": 1899,
+        "merchantId": "M002",
+        "image": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=400&h=400&fit=crop",
+        "description": "Elegant silk blouse with contemporary design. Luxurious fabric with a sophisticated cut."
+    },
+    {
+        "id": "P003",
+        "name": "Classic Denim Jeans",
+        "category": "Clothing",
+        "price": 1299,
+        "merchantId": "M001",
+        "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=400&h=400&fit=crop",
+        "description": "High-quality denim jeans with perfect fit. Durable construction with modern styling."
+    },
+    {
+        "id": "P004",
+        "name": "Cashmere Sweater",
+        "category": "Clothing",
+        "price": 3299,
+        "merchantId": "M002",
+        "image": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=400&h=400&fit=crop",
+        "description": "Luxurious cashmere sweater with exceptional softness. Premium quality for ultimate comfort."
+    },
+    {
+        "id": "P005",
+        "name": "Formal Blazer",
+        "category": "Clothing",
+        "price": 2799,
+        "merchantId": "M001",
+        "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+        "description": "Tailored blazer for professional settings. Sharp cut with attention to detail."
+    },
+    {
+        "id": "P006",
+        "name": "Vintage Band T-Shirt",
+        "category": "Clothing",
+        "price": 899,
+        "merchantId": "M002",
+        "image": "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=400&h=400&fit=crop",
+        "description": "Authentic vintage band t-shirt with retro graphics. Soft cotton blend fabric."
+    },
+    {
+        "id": "P007",
+        "name": "Maxi Summer Dress",
+        "category": "Clothing",
+        "price": 1599,
+        "merchantId": "M001",
+        "image": "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=400&h=400&fit=crop",
+        "description": "Flowing maxi dress perfect for summer occasions. Lightweight fabric with beautiful prints."
+    },
+    {
+        "id": "P008",
+        "name": "Wool Coat",
+        "category": "Clothing",
+        "price": 4299,
+        "merchantId": "M002",
+        "image": "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?w=400&h=400&fit=crop",
+        "description": "Premium wool coat for winter elegance. Classic design with modern functionality."
+    },
+    {
+        "id": "P009",
+        "name": "Diamond Stud Earrings",
+        "category": "Accessories",
+        "price": 5999,
+        "merchantId": "M001",
+        "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=400&h=400&fit=crop",
+        "description": "Brilliant cut diamond earrings in 14k gold setting. Timeless elegance for any occasion."
+    },
+    {
+        "id": "P010",
+        "name": "Luxury Watch",
+        "category": "Accessories",
+        "price": 12999,
+        "merchantId": "M002",
+        "image": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?w=400&h=400&fit=crop",
+        "description": "Swiss-made luxury watch with automatic movement. Stainless steel case with leather strap."
+    },
+    {
+        "id": "P011",
+        "name": "Designer Handbag",
+        "category": "Accessories",
+        "price": 3799,
+        "merchantId": "M001",
+        "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&h=400&fit=crop",
+        "description": "Premium leather handbag with elegant design. Spacious interior with multiple compartments."
+    },
+    {
+        "id": "P012",
+        "name": "Pearl Necklace",
+        "category": "Accessories",
+        "price": 2899,
+        "merchantId": "M002",
+        "image": "https://images.unsplash.com/photo-1506630448388-4e683c67ddb0?w=400&h=400&fit=crop",
+        "description": "Cultured pearl necklace with sterling silver clasp. Classic sophistication for formal events."
+    },
+    {
+        "id": "P013",
+        "name": "Silk Scarf",
+        "category": "Accessories",
+        "price": 799,
+        "merchantId": "M001",
+        "image": "https://images.unsplash.com/photo-1601924994987-69e26d50dc26?w=400&h=400&fit=crop",
+        "description": "Hand-printed silk scarf with artistic patterns. Versatile accessory for any wardrobe."
+    },
+    {
+        "id": "P014",
+        "name": "Leather Belt",
+        "category": "Accessories",
+        "price": 1199,
+        "merchantId": "M002",
+        "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&h=400&fit=crop",
+        "description": "Genuine leather belt with polished buckle. Durable construction with classic styling."
+    },
+    {
+        "id": "P015",
+        "name": "Sunglasses",
+        "category": "Accessories",
+        "price": 1599,
+        "merchantId": "M001",
+        "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=400&h=400&fit=crop",
+        "description": "Designer sunglasses with UV protection. Stylish frames with premium lenses."
+    },
+    {
+        "id": "P016",
+        "name": "Gold Bracelet",
+        "category": "Accessories",
+        "price": 4599,
+        "merchantId": "M002",
+        "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=400&h=400&fit=crop",
+        "description": "18k gold bracelet with intricate chain design. Elegant jewelry for special occasions."
+    },
+    {
+        "id": "P017",
+        "name": "iPhone 15 Pro",
+        "category": "Electronics",
+        "price": 99999,
+        "merchantId": "M001",
+        "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=400&h=400&fit=crop",
+        "description": "Latest iPhone with advanced camera system and A17 Pro chip. Premium smartphone technology."
+    },
+    {
+        "id": "P018",
+        "name": "MacBook Air M3",
+        "category": "Electronics",
+        "price": 119999,
+        "merchantId": "M002",
+        "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400&h=400&fit=crop",
+        "description": "Ultra-thin laptop with M3 chip and all-day battery life. Perfect for work and creativity."
+    },
+    {
+        "id": "P019",
+        "name": "AirPods Pro",
+        "category": "Electronics",
+        "price": 24999,
+        "merchantId": "M001",
+        "image": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?w=400&h=400&fit=crop",
+        "description": "Wireless earbuds with active noise cancellation. Premium audio experience with spatial audio."
+    },
+    {
+        "id": "P020",
+        "name": "Samsung 4K Smart TV",
+        "category": "Electronics",
+        "price": 79999,
+        "merchantId": "M002",
+        "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=400&h=400&fit=crop",
+        "description": "55-inch 4K QLED smart TV with HDR support. Stunning picture quality with smart features."
+    },
+    {
+        "id": "P021",
+        "name": "Gaming Console",
+        "category": "Electronics",
+        "price": 49999,
+        "merchantId": "M001",
+        "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=400&h=400&fit=crop",
+        "description": "Next-generation gaming console with 4K gaming and ray tracing. Ultimate gaming experience."
+    },
+    {
+        "id": "P022",
+        "name": "Wireless Speaker",
+        "category": "Electronics",
+        "price": 12999,
+        "merchantId": "M002",
+        "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=400&h=400&fit=crop",
+        "description": "Premium Bluetooth speaker with 360-degree sound. Waterproof design with long battery life."
+    },
+    {
+        "id": "P023",
+        "name": "Tablet Pro",
+        "category": "Electronics",
+        "price": 69999,
+        "merchantId": "M001",
+        "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=400&h=400&fit=crop",
+        "description": "Professional tablet with stylus support and keyboard compatibility. Perfect for creative work."
+    },
+    {
+        "id": "P024",
+        "name": "Smart Watch",
+        "category": "Electronics",
+        "price": 34999,
+        "merchantId": "M002",
+        "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400&h=400&fit=crop",
+        "description": "Advanced smartwatch with health monitoring and GPS. Comprehensive fitness and connectivity features."
+    }
+]
